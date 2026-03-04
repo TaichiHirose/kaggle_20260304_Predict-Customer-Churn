@@ -1,0 +1,13 @@
+# Mac特有のファイル
+.DS_Store
+# Python / Jupyter関連
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+# Kaggle用データ
+data/
+*.csv
+*.zip
+models/
+*.pkl
